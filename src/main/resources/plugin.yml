@@ -1,0 +1,83 @@
+name: Xicraft
+version: ${project.version}
+main: xicraft.xicraft.Xicraft
+api-version: 1.16
+depend: [WorldGuard]
+commands:
+  lobby:
+    description: Téléporte au Lobby
+    usage: /lobby
+  home:
+    description: Téléporte à votre lit
+    usage: /home
+  village:
+    description: Téléporte au village principal
+    usage: /village
+  xicoins:
+    description: Vous affiche votre nombre de xicoins
+    usage: /xicoins
+  echange:
+    description: Echange un certain nombre de xicoins contre des $ où inversement
+    usage: /echange <nombre> <$/xicoins>
+  knackie:
+    description: Vous donne la knackie
+    usage: /knackie
+  $:
+    description: Vous affiche votre nombre de $ dans votre inventaire
+    usage: /$
+  fb:
+    description: Donne un baton à boule de feu
+    usage: /fb
+  house:
+    descritpion: Donne un livre de propriété
+    usage: /house <size>
+  fw:
+    description: Donne un baton à feu d'artifice
+    usage: /fw <creeper/star>
+  rename:
+    description: Change le nom d'utilisateur
+    usage: /rename <pseudal>
+  glow:
+    description: Donne un effet d'enchantement
+    usage: /glow
+  lore:
+    description: ajoute un lore
+    usage: /lore <lore>
+  dn:
+    description: ajoute un nom
+    usage: /dn <nom>
+  pts:
+    description: Donne votre nombre de points d'événements
+    usage: /pts
+  reset:
+    description: Reset le nombre de point d'évenement d'un joueur
+    usage: /reset <player>
+permissions:
+  xicraft.*:
+    default: op
+    children:
+      xicraft.lore: true
+      xicraft.dn: true
+      xicraft.house: true
+      xicraft.fb: true
+      xicraft.fw: true
+  lobby:
+    description: Accessible à tout le monde
+  home:
+    description: Accessible à tout le monde
+  xicoins:
+    description: Accessible à tout le monde
+  echange:
+    description: Accessible à tout le monde
+  $:
+    description: Accessible à tout le monde
+  lore:
+    default: op
+  knackie:
+    default: op
+  house:
+    default: op
+  fw:
+    default: op
+  fb:
+    default: op

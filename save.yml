@@ -1,0 +1,3920 @@
+data-version: 1
+'2':
+  uniqueId: d53eb890-38df-4157-944b-205bd040799a
+  name: L aubergiste de Xi
+  world: world
+  x: 309
+  y: 72
+  z: -218
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 5
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LIGHT_BLUE_BED
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLUE_BED
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PINK_BED
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MAGENTA_BED
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PURPLE_BED
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GREEN_BED
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: YELLOW_BED
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BROWN_BED
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_WOOL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_PLANKS
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLACK_BED
+'3':
+  uniqueId: a20a6085-c4b7-4b05-b59f-3975781b4cc8
+  name: Melo
+  world: world
+  x: 309
+  y: 72
+  z: -225
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GUNPOWDER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BREAD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_INGOT
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COOKIE
+'4':
+  uniqueId: f0041fa9-f47a-4d8e-9228-19e13d72c122
+  name: Meli
+  world: world
+  x: 305
+  y: 72
+  z: -225
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GUNPOWDER
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BREAD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_INGOT
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COOKIE
+        amount: 2
+'5':
+  uniqueId: 92db6eb8-ff2f-4d93-be9b-f9035f6f4f21
+  name: Le grand Charivari
+  world: world
+  x: 611
+  y: 126
+  z: -166
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 3
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIRT
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+'7':
+  uniqueId: 11f57492-e11c-4931-ac0a-39ad72ae6b22
+  name: Jardinier de XI
+  world: world
+  x: 310
+  y: 71
+  z: -238
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ORANGE_TULIP
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: RED_TULIP
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ALLIUM
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LILY_OF_THE_VALLEY
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLUE_ORCHID
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WITHER_ROSE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ROSE_BUSH
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PEONY
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LILAC
+'8':
+  uniqueId: c99abc28-80fe-4d81-992e-055156876fb1
+  name: Teinturier de XI
+  world: world
+  x: 301
+  y: 71
+  z: -249
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GRAY_DYE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PINK_DYE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MAGENTA_DYE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LIGHT_BLUE_DYE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHITE_DYE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BROWN_DYE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ORANGE_DYE
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GREEN_DYE
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLUE_DYE
+'9':
+  uniqueId: 0ec941b9-7487-4bbd-8883-a8299bcad8a7
+  name: Armurier de XI
+  world: world
+  x: 310
+  y: 71
+  z: -248
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_SWORD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BOW
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TRIDENT
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TOTEM_OF_UNDYING
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CROSSBOW
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND_PICKAXE
+'10':
+  uniqueId: 1a4248d6-91c7-4af3-a056-f08fc2d15d70
+  name: Armurier de XI
+  world: world
+  x: 310
+  y: 71
+  z: -250
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ARROW
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ARROW
+        amount: 10
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_poison
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:harming
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TIPPED_ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_turtle_master
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SPECTRAL_ARROW
+'11':
+  uniqueId: d2511aee-9e93-4446-9bfb-95f10a9494df
+  name: Cuisinier de XI
+  world: world
+  x: 310
+  y: 71
+  z: -260
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MELON_SLICE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SWEET_BERRIES
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEETROOT_SOUP
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SUSPICIOUS_STEW
+        meta:
+          ==: ItemMeta
+          meta-type: SUSPICIOUS_STEW
+          effects:
+          - ==: PotionEffect
+            effect: 23
+            duration: 9
+            amplifier: 0
+            ambient: true
+            has-particles: true
+            has-icon: true
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: RABBIT_STEW
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COOKED_RABBIT
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CAKE
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLDEN_APPLE
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 31
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_GOLDEN_APPLE
+'12':
+  uniqueId: 41f481ca-ad43-481f-96ba-ca16879a7191
+  name: Banquier de XI
+  world: world
+  x: 293
+  y: 68
+  z: -320
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+'13':
+  uniqueId: cbc6fbe1-e64b-4b64-a139-bb056482111b
+  name: Banquier de XI
+  world: world
+  x: 298
+  y: 68
+  z: -319
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: END_CRYSTAL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 100$
+          lore:
+          - Vaut 100$, à garder précieusement
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: END_CRYSTAL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 100$
+          lore:
+          - Vaut 100$, à garder précieusement
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+'14':
+  uniqueId: 2191cc76-a740-4cc3-9075-ce3ef85a7c23
+  name: Vendeur animalier de XI
+  world: world
+  x: 335
+  y: 71
+  z: -241
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: FOX_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OCELOT_SPAWN_EGG
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PANDA_SPAWN_EGG
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: POLAR_BEAR_SPAWN_EGG
+'15':
+  uniqueId: dcdb7d9e-a1d2-4cec-965f-9966e5ac425e
+  name: Vendeur animalier de XI
+  world: world
+  x: 335
+  y: 71
+  z: -248
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COD_SPAWN_EGG
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TROPICAL_FISH_SPAWN_EGG
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PUFFERFISH_SPAWN_EGG
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SQUID_SPAWN_EGG
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DOLPHIN_SPAWN_EGG
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TURTLE_SPAWN_EGG
+'16':
+  uniqueId: 000c7e47-a232-4e22-9fe5-3166a3cb93a0
+  name: Vendeur animalier de XI
+  world: world
+  x: 326
+  y: 71
+  z: -241
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WOLF_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CAT_SPAWN_EGG
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PARROT_SPAWN_EGG
+'17':
+  uniqueId: 8a837d12-5726-4f45-9c7d-5220efb4e300
+  name: Vendeur animalier de XI
+  world: world
+  x: 326
+  y: 71
+  z: -248
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SHEEP_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COW_SPAWN_EGG
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CHICKEN_SPAWN_EGG
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PIG_SPAWN_EGG
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: RABBIT_SPAWN_EGG
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HORSE_SPAWN_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          display-name: Oeuf d'apparition de poney
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DONKEY_SPAWN_EGG
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MULE_SPAWN_EGG
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LLAMA_SPAWN_EGG
+'18':
+  uniqueId: 7fc6e580-56db-474a-819c-263aa29b0759
+  name: Vendeur animalier de XI
+  world: world
+  x: 337
+  y: 71
+  z: -245
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BONE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEEF
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEEF
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Nourriture pour Louna
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Nourriture pour Plume
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: POTATO
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CARROT
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: APPLE
+'19':
+  uniqueId: 1b017147-bbcc-4fae-afb6-12415277d070
+  name: Vendeur animalier de XI
+  world: world
+  x: 337
+  y: 71
+  z: -244
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: NAME_TAG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LEAD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SADDLE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LEATHER_HORSE_ARMOR
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_HORSE_ARMOR
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLDEN_HORSE_ARMOR
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND_HORSE_ARMOR
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CARROT_ON_A_STICK
+'21':
+  uniqueId: ff33727f-6e8e-48dd-8ecf-295dd3bbf989
+  name: Agent immobilier de Xi
+  world: world
+  x: 351
+  y: 71
+  z: -271
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KNOWLEDGE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: KNOWLEDGE_BOOK
+          display-name: Propriété 10x10
+          lore:
+          - Permet l'achat de terrain 10x10
+          enchants:
+            LOYALTY: 10
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 48
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KNOWLEDGE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: KNOWLEDGE_BOOK
+          display-name: Propriété 20x20
+          lore:
+          - Permet l'achat de terrain 20x20
+          enchants:
+            LOYALTY: 20
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KNOWLEDGE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: KNOWLEDGE_BOOK
+          display-name: Propriété 30x30
+          lore:
+          - Permet l'achat de terrain 30x30
+          enchants:
+            LOYALTY: 30
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KNOWLEDGE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: KNOWLEDGE_BOOK
+          display-name: Propriété 40x40
+          lore:
+          - Permet l'achat de terrain 40x40
+          enchants:
+            LOYALTY: 40
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DRAGON_EGG
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: KNOWLEDGE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: KNOWLEDGE_BOOK
+          display-name: Propriété 100x100
+          lore:
+          - Permet l'achat de terrain 100x100
+          enchants:
+            LOYALTY: 100
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+'22':
+  uniqueId: 640d85be-9bb3-4da4-96a5-8360ee18a511
+  name: Vendeur de coffre de XI
+  world: world
+  x: 296
+  y: 71
+  z: -238
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CHEST
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TRAPPED_CHEST
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENDER_CHEST
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CYAN_SHULKER_BOX
+'23':
+  uniqueId: bb9fd915-31bf-414e-9c53-81e9fbaeffd4
+  name: Vendeur Bric a Brac de XI
+  world: world
+  x: 296
+  y: 71
+  z: -259
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: REDSTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIRT
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHEAT_SEEDS
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: STRING
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ROTTEN_FLESH
+        amount: 35
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: FEATHER
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SPIDER_EYE
+        amount: 25
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+'24':
+  uniqueId: 3a6d29be-b36e-43fc-8d89-75051ee9992d
+  name: Paysan de XI
+  world: world
+  x: 319
+  y: 65
+  z: -739
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WHEAT
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEETROOT
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: POTATO
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CARROT
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLDEN_CARROT
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HONEYCOMB_BLOCK
+        amount: 21
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+'25':
+  uniqueId: 3d4db72c-67f0-4693-9fa6-d27aed3feb61
+  name: Mineur de XI
+  world: world
+  x: 245
+  y: 71
+  z: -268
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TORCH
+        amount: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WOODEN_PICKAXE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: STONE_PICKAXE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_PICKAXE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: RAIL
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: FURNACE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BREAD
+'26':
+  uniqueId: 787f521d-d94b-43e7-b431-7aeed2a0a836
+  name: Pecheur de XI
+  world: world
+  x: 406
+  y: 64
+  z: -318
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TROPICAL_FISH
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: PUFFERFISH
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: NAUTILUS_SHELL
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SEA_PICKLE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: SALMON_BUCKET
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TROPICAL_FISH_BUCKET
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: FISHING_ROD
+'27':
+  uniqueId: 15345f6f-4209-41ef-be7e-927f2c8c991e
+  name: Musicien de XI
+  world: world
+  x: 333
+  y: 67
+  z: -298
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_CAT
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_BLOCKS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_CHIRP
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_FAR
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_MELLOHI
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_STAL
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_WARD
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 34
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: NOTE_BLOCK
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: JUKEBOX
+'28':
+  uniqueId: 6f39df6b-b5f0-4f2f-a029-546997a5a6d2
+  name: Clochard de XI
+  world: world
+  x: 285
+  y: 67
+  z: -283
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: OAK_BUTTON
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GRASS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: STICK
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BONE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BOWL
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BROWN_MUSHROOM
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 42
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: NETHER_WART
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Verrues de clochard
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LIGHT_GRAY_CARPET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Serpillère
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Firework Stick
+          lore:
+          - Feu d'artifice Creeper
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '10':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Firework Stick
+          lore:
+          - Feu d'artifice Star
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '11':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Firework Stick
+          lore:
+          - Feu d'artifice Bigball
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '12':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Firework Stick
+          lore:
+          - Feu d'artifice Burst
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+    '13':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Firework Stick
+          lore:
+          - Feu d'artifice Ball
+          enchants:
+            ARROW_FIRE: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+'29':
+  uniqueId: ee853424-db0f-427c-8c42-b278416fb323
+  name: Apiculteur de XI
+  world: world
+  x: 204
+  y: 68
+  z: -411
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: DESERT
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEE_SPAWN_EGG
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEE_NEST
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 42
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BEEHIVE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HONEYCOMB_BLOCK
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HONEY_BLOCK
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HONEYCOMB
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 33
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HONEY_BOTTLE
+'30':
+  uniqueId: e46cffcc-9e0b-4949-9001-71fc967b1982
+  name: Ouvrier SNCF de XI
+  world: world
+  x: 333
+  y: 71
+  z: -329
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: RAIL
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DETECTOR_RAIL
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ACTIVATOR_RAIL
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: POWERED_RAIL
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MINECART
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 34
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CHEST_MINECART
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: FURNACE_MINECART
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 55
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HOPPER_MINECART
+'36':
+  uniqueId: 6d139397-4cbc-400e-b871-0028949c4de0
+  name: Bibliothecaire de XI
+  world: world
+  x: 326
+  y: 71
+  z: -226
+  type: admin
+  object:
+    type: trader-llama
+    baby: false
+    carryingChest: false
+    color: WHITE
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            VANISHING_CURSE: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            BINDING_CURSE: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 17
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FROST_WALKER: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            IMPALING: 3
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_MOBS: 3
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_FALL: 4
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SILK_TOUCH: 1
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_FIRE: 1
+    '9':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Bible de XI
+'38':
+  uniqueId: 0c99ae4a-00c9-4a50-8275-2abae4674a41
+  name: Bibliothecaire de XI
+  world: world
+  x: 325
+  y: 71
+  z: -226
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: CARTOGRAPHER
+    villagerType: JUNGLE
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          display-name: 'La Communauté de l''anneau '
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          display-name: Les Deux Tours
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          display-name: Le Retour du Roi
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          display-name: Le Hobbit
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WRITABLE_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK
+          display-name: Le Silmarillion
+'39':
+  uniqueId: 93a9aa39-793b-403e-9aa0-70ca3a4aa7eb
+  name: Joallier de XI
+  world: world
+  x: 282
+  y: 68
+  z: -306
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COAL
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_INGOT
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLD_INGOT
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: EMERALD
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: LAPIS_LAZULI
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: REDSTONE
+'40':
+  uniqueId: 3589f4f2-d816-411e-bca5-aa5f975c8f3a
+  name: Marchand enclume de XI
+  world: world
+  x: 292
+  y: 71
+  z: -221
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: TAIGA
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 50
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DAMAGED_ANVIL
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 60
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CHIPPED_ANVIL
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: ANVIL
+'41':
+  uniqueId: 45fdb934-2928-4797-97fe-f76cd8251663
+  name: Marchand arme XI
+  world: world
+  x: 292
+  y: 71
+  z: -218
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: WOODEN_SWORD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: STONE_SWORD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: IRON_SWORD
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: GOLDEN_SWORD
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DIAMOND_SWORD
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BOW
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Knackie
+          lore:
+          - Knackie Légendaire
+          enchants:
+            KNOCKBACK: 100
+'42':
+  uniqueId: 98115d02-ec55-401c-91f8-96877898302e
+  name: Auto Stoppeur
+  world: world
+  x: 241
+  y: 75
+  z: -300
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: FLETCHER
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BIRCH_SIGN
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: MUSIC_DISC_11
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: DEAD_BUSH
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: CACTUS
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: HEART_OF_THE_SEA
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 1$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: COBWEB
+'43':
+  uniqueId: 1c47db86-a226-4465-bc5a-c7eb881472d6
+  name: Pretre de XI
+  world: world
+  x: 336
+  y: 74
+  z: -317
+  type: admin
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: TUBE_CORAL_BLOCK
+        amount: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 10$
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2230
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Bible de XI

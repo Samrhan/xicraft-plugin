@@ -1,0 +1,137 @@
+Loading BuildTools version: git-BuildTools-975b734-112 (#112)
+Java Version: Java 14
+Current Path: C:\Users\samue\IdeaProjects\xicraft\.
+*** Could not find PortableGit installation, downloading. ***
+Starting download of https://static.spigotmc.org/git/PortableGit-2.24.1.2-64-bit.7z.exe
+Downloaded file: PortableGit-2.24.1.2-64-bit\PortableGit-2.24.1.2-64-bit.7z.exe with hash: cb75e4a557e01dd27b5af5eb59dfe28adcbad21638777dd686429dd905d13899
+Extracting downloaded git install
+*** Using downloaded git PortableGit-2.24.1.2-64-bit\PortableGit ***
+*** Please note that this is a beta feature, so if it does not work please also try a manual install of git from https://git-for-windows.github.io/ ***
+git version 2.24.1.windows.2
+Samuel Bader
+samuel.bader@efrei.net
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to Bukkit
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to C:\Users\samue\IdeaProjects\xicraft\Bukkit. Current HEAD: b2f1908c59d22a693ee7ef10f480081436145251
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to CraftBukkit
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to C:\Users\samue\IdeaProjects\xicraft\CraftBukkit. Current HEAD: 8ea9b1386bc7f131c3df3ed0b87b49a5a3e811ba
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/spigot.git to Spigot
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/spigot.git to C:\Users\samue\IdeaProjects\xicraft\Spigot. Current HEAD: a99063f77142a462546e31413de6c6190e913f11
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/builddata.git to BuildData
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/builddata.git to C:\Users\samue\IdeaProjects\xicraft\BuildData. Current HEAD: 455d45a4244894335cd07451bdda79ccd380aff6
+Maven does not exist, downloading. Please wait.
+Starting download of https://static.spigotmc.org/maven/apache-maven-3.6.0-bin.zip
+Downloaded file: apache-maven-3.6.0-bin.zip with hash: 7d14ab2b713880538974aa361b987231473fbbed20e83586d542c691ace1139026f232bd46fdcce5e8887f528ab1c3fbfc1b2adec90518b6941235952d3868e9
+Extracted: .\apache-maven-3.6.0\README.txt
+Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.plexus.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\windows32\jansi.dll
+Extracted: .\apache-maven-3.6.0\bin\mvnDebug.cmd
+Extracted: .\apache-maven-3.6.0\lib\ext\README.txt
+Extracted: .\apache-maven-3.6.0\lib\plexus-interpolation-1.25.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-plugin-api-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\jsr250-api-1.0.jar
+Extracted: .\apache-maven-3.6.0\lib\javax.inject-1.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-model-builder-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\aopalliance-1.0.jar
+Extracted: .\apache-maven-3.6.0\lib\jsr305-3.0.2.jar
+Extracted: .\apache-maven-3.6.0\lib\error_prone_annotations-2.1.3.jar
+Extracted: .\apache-maven-3.6.0\lib\j2objc-annotations-1.1.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-compat-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\LICENSE
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\freebsd32\libjansi.so
+Extracted: .\apache-maven-3.6.0\conf\logging\simplelogger.properties
+Extracted: .\apache-maven-3.6.0\lib\plexus-utils-3.1.0.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-util-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\guice-4.2.1-no_aop.jar
+Extracted: .\apache-maven-3.6.0\NOTICE
+Extracted: .\apache-maven-3.6.0\lib\slf4j-api.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\osx\libjansi.jnilib
+Extracted: .\apache-maven-3.6.0\bin\mvn.cmd
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\README.txt
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-provider-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-spi-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-impl-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\guava-25.1-android.jar
+Extracted: .\apache-maven-3.6.0\lib\animal-sniffer-annotations.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\freebsd64\libjansi.so
+Extracted: .\apache-maven-3.6.0\conf\settings.xml
+Extracted: .\apache-maven-3.6.0\lib\maven-builder-support-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\plexus-component-annotations-1.7.1.jar
+Extracted: .\apache-maven-3.6.0\lib\plexus-sec-dispatcher-1.4.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-model-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-api-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\commons-io-2.5.jar
+Extracted: .\apache-maven-3.6.0\lib\wagon-http-3.2.0-shaded.jar
+Extracted: .\apache-maven-3.6.0\lib\checker-compat-qual.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\linux32\libjansi.so
+Extracted: .\apache-maven-3.6.0\bin\mvnDebug
+Extracted: .\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-repository-metadata-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\commons-lang3-3.8.1.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-connector-basic-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\jsr250-api.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\windows64\jansi.dll
+Extracted: .\apache-maven-3.6.0\bin\mvn
+Extracted: .\apache-maven-3.6.0\lib\maven-embedder-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.plexus-0.3.3.jar
+Extracted: .\apache-maven-3.6.0\lib\slf4j-api-1.7.25.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-shared-utils-3.2.1.jar
+Extracted: .\apache-maven-3.6.0\lib\checker-compat-qual-2.0.0.jar
+Extracted: .\apache-maven-3.6.0\lib\animal-sniffer-annotations-1.14.jar
+Extracted: .\apache-maven-3.6.0\lib\wagon-provider-api-3.2.0.jar
+Extracted: .\apache-maven-3.6.0\lib\wagon-file-3.2.0.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-resolver-transport-wagon-1.3.1.jar
+Extracted: .\apache-maven-3.6.0\lib\jansi-1.17.1.jar
+Extracted: .\apache-maven-3.6.0\lib\jcl-over-slf4j.license
+Extracted: .\apache-maven-3.6.0\lib\jansi-native\linux64\libjansi.so
+Extracted: .\apache-maven-3.6.0\bin\mvnyjp
+Extracted: .\apache-maven-3.6.0\lib\maven-settings-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-core-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.inject.license
+Extracted: .\apache-maven-3.6.0\bin\m2.conf
+Extracted: .\apache-maven-3.6.0\conf\toolchains.xml
+Extracted: .\apache-maven-3.6.0\lib\maven-settings-builder-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\plexus-cipher-1.7.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-artifact-3.6.0.jar
+Extracted: .\apache-maven-3.6.0\lib\cdi-api-1.0.jar
+Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.inject-0.3.3.jar
+Extracted: .\apache-maven-3.6.0\lib\commons-cli-1.4.jar
+Extracted: .\apache-maven-3.6.0\lib\jcl-over-slf4j-1.7.25.jar
+Extracted: .\apache-maven-3.6.0\lib\maven-slf4j-provider-3.6.0.jar
+Attempting to build version: 'latest' use --rev <version> to override
+Found version
+{
+	"name": "2699",
+	"description": "Jenkins build 2699",
+	"refs": {
+		"BuildData": "455d45a4244894335cd07451bdda79ccd380aff6",
+		"Bukkit": "b2f1908c59d22a693ee7ef10f480081436145251",
+		"CraftBukkit": "8ea9b1386bc7f131c3df3ed0b87b49a5a3e811ba",
+		"Spigot": "a99063f77142a462546e31413de6c6190e913f11"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}
+
+Pulling updates for C:\Users\samue\IdeaProjects\xicraft\BuildData\.git
+Successfully fetched updates!
+Checked out: 455d45a4244894335cd07451bdda79ccd380aff6
+Pulling updates for C:\Users\samue\IdeaProjects\xicraft\Bukkit\.git
+Successfully fetched updates!
+Checked out: b2f1908c59d22a693ee7ef10f480081436145251
+Pulling updates for C:\Users\samue\IdeaProjects\xicraft\CraftBukkit\.git
+Successfully fetched updates!
+Checked out: 8ea9b1386bc7f131c3df3ed0b87b49a5a3e811ba
+Pulling updates for C:\Users\samue\IdeaProjects\xicraft\Spigot\.git
+Successfully fetched updates!
+Checked out: a99063f77142a462546e31413de6c6190e913f11
+Attempting to build Minecraft with details: VersionInfo(minecraftVersion=1.15.2, accessTransforms=bukkit-1.15.2.at, classMappings=bukkit-1.15.2-cl.csrg, memberMappings=bukkit-1.15.2-members.csrg, packageMappings=package.srg, minecraftHash=15ae1106a67cc78fd25d28bda6f05c06, classMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only net/minecraft --auto-lvt BASIC --auto-member SYNTHETIC -e BuildData/mappings/bukkit-1.15.2.exclude -i {0} -m {1} -o {2}, memberMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only net/minecraft --auto-member LOGGER --auto-member TOKENS -i {0} -m {1} -o {2}, finalMapCommand=java -jar BuildData/bin/SpecialSource.jar --only . --only net/minecraft -i {0} --access-transformer {1} -m {2} -o {3}, decompileCommand=java -jar BuildData/bin/fernflower.jar -dgs=1 -hdc=0 -asc=1 -udv=0 -rsy=1 -aoa=1 {0} {1}, serverUrl=https://launcher.mojang.com/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar, toolsVersion=105)
+Starting download of https://launcher.mojang.com/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar
+Downloaded file: work\minecraft_server.1.15.2.jar with hash: 15ae1106a67cc78fd25d28bda6f05c06
+Final mapped jar: work\mapped.ee3ecae0.jar does not exist, creating (please wait)!
+'java' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+Exception in thread "main" java.lang.RuntimeException: Error running command, return status !=0: [cmd.exe, /C, java, -jar, BuildData/bin/SpecialSource-2.jar, map, --only, ., --only, net/minecraft, --auto-lvt, BASIC, --auto-member, SYNTHETIC, -e, BuildData/mappings/bukkit-1.15.2.exclude, -i, work\minecraft_server.1.15.2.jar, -m, BuildData/mappings/bukkit-1.15.2-cl.csrg, -o, work\mapped.ee3ecae0.jar-cl]
+	at org.spigotmc.builder.Builder.runProcess0(Builder.java:805)
+	at org.spigotmc.builder.Builder.runProcess(Builder.java:742)
+	at org.spigotmc.builder.Builder.main(Builder.java:428)
+	at org.spigotmc.builder.Bootstrap.main(Bootstrap.java:40)
